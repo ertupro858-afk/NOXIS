@@ -21,3 +21,6 @@ Bu proje yalnızca eğitim, araştırma, analiz ve test amaçlı paylaşılmakta
 Gerçek bilgisayarlarda çalıştırılması önerilmez. Testlerin yalnızca sanal makine (Virtual Machine) veya izole edilmiş güvenli ortamlarda yapılması tavsiye edilir.
 
 Projeyi kullanan herkes yaptığı işlemlerden kendisi sorumludur. Proje sahibi, izinsiz veya kötü niyetli kullanımlardan doğabilecek herhangi bir zarardan sorumlu değildir.
+
+
+Bu arada virüsü açmadan önce Yönetici Olarak Çalıştır Diyin!
