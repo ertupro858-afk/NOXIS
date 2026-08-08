@@ -24,3 +24,10 @@ Projeyi kullanan herkes yaptığı işlemlerden kendisi sorumludur. Proje sahibi
 
 
 Bu arada virüsü açmadan önce Yönetici Olarak Çalıştır Diyin!
+
+
+
+
+
+
+Yeni sürüm 2.0v yakında! hemde daha iyi...
